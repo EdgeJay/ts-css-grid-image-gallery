@@ -1,0 +1,47 @@
+{
+  "name": "ts-css-grid-image-gallery",
+  "version": "1.0.0",
+  "description": "Image gallery website using CSS grid",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgeJay/ts-css-grid-image-gallery.git"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "typescript",
+    "react"
+  ],
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "styled-components": "5.3.3"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "@types/react": "^17.0.34",
+    "@types/react-dom": "^17.0.11",
+    "@types/styled-components": "^5.1.15",
+    "typescript": "4.1.3"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "Wu Huijie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdgeJay/ts-css-grid-image-gallery/issues"
+  },
+  "homepage": "https://github.com/EdgeJay/ts-css-grid-image-gallery#readme"
+}
